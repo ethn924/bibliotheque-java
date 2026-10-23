@@ -10,7 +10,17 @@ credentials.*
 *.log
 logs/
 
-# Système / éditeur
+# SystÃ¨me / Ã©diteur
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# fichiers compiles
+bin/
+*.class
+out/
+
 .DS_Store
 Thumbs.db
 .vscode/
